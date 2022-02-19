@@ -1,0 +1,1 @@
+# monitor_console_availability
