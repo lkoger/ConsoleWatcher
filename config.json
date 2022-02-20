@@ -1,0 +1,5 @@
+{
+    "discord_webhook": "<Discord Webhook Here>",
+    "repeat_delay_minutes": 15,
+    "availability_recheck_delay_minutes": 300
+}
