@@ -21,7 +21,7 @@ python run.py
 ## Issues
 * The script is not robust, and sometimes it'll be run and never correctly identify when a console is available. Restarting it almost always resolves this. And when it starts properly, it seems to be very dependable. I provide no guarantees it'll be sufficient for you.
 
-## Plannned Features
+## Planned Features
 * Support for checking more retail stores than Target. 
 * Support for checking PS5 availability.
 * Support user-provided urls in the config.json (can be changed in run.py).
