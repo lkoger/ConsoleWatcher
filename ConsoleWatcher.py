@@ -9,8 +9,6 @@ import requests
 from datetime import datetime
 from time import sleep
 
-from sqlalchemy import false
-
 def exception_info(exception):
     print('Exception:')
     print(type(exception))
